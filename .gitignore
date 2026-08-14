@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.wroteonly/
+.wroteonly.json
+
+# Private working docs — never published. Contain local paths and private-stack detail.
+docs-private/
