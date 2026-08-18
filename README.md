@@ -3,6 +3,10 @@
 <!-- portfolio-status -->
 **Status:** New — built against a real unattended job in my own stack; not yet production-aged. · **Layer:** Execution controls · **[Portfolio map ›](https://github.com/kkrlstrm)**
 
+> **Now part of [callusguard](https://github.com/kkrlstrm/callusguard).**
+> wroteonly is the `verify` stage of a five-stage loop — `record → derive → guard → verify → prune` — exposed there as
+> `callus scope declare` / `callus scope verify`. callusguard ships all five stages for both Claude Code and Codex, as one install. This repo stays up and works; callusguard is where the loop closes.
+
 **Make the agent say what it will touch. Then check.**
 
 An agent declares its intended write set before it acts. wroteonly fingerprints the
